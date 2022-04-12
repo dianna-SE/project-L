@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOOBLE | FIGHT GAME</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="main-bar">
+        <div class="player1">PLAYER 1</div>
+        <div class="player2">PLAYER 2</div>
+        <div class="health-bar">
+            <div class="player-div">
+                <div class="player-health"></div>
+                <div id="playerHealth" class="player-healthbar"></div>
+            </div>
+
+            <div id="timer" class="timer">
+                10
+            </div>
+            <div class="enemy-div">
+                <div class="enemy-health"></div>
+                <div id="enemyHealth" class="enemy-healthbar"></div>
+            </div>
+        </div>
+
+        <div id='displayText' class="tie-status">TIE</div>
+
+        <canvas></canvas>
+    </div>
+
+    <div class='description'>
+       GOOBLE | FIGHT GAME
+    </div>
+
+    <div class="control1">
+        PLAYER 1 CONTROLS
+        <div class="control-info">W = JUMP</div>
+        <div class="control-info">A = LEFT</div>
+        <div class="control-info">D = RIGHT</div>
+        <div class="control-info">S = ATTACK</div>
+    </div>
+    
+    <div class="control2">
+        PLAYER 2 CONTROLS
+        <div class="control-info">UP ARROW = JUMP</div>
+        <div class="control-info">DOWN ARROW = ATTACK</div>
+        <div class="control-info">LEFT ARROW = MOVE LEFT</div>
+        <div class="control-info">RIGHT ARROW = MOVE RIGHT</div>
+    </div>
+
+    <script src="js/utilities.js"></script>
+    <script src="js/classes.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
