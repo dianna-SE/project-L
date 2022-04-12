@@ -1,6 +1,6 @@
 # GOOBLE | FIGHTING GAME WEBSITE
 
-One Paragraph of project description goes here
+https://rad-semolina-564905.netlify.app/
 
 ## Getting Started
 
