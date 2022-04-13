@@ -18,7 +18,7 @@ Tests are run by refreshing index.html. Further tests were monitored and configu
 
 ## Deployment
 
-Netlify was used for website deployment.
+Netlify was used for website deployment. Simply link your GitHub respository to Netflify for convenient access to successful deployment.
 
 ## Built With
 
