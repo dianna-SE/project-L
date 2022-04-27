@@ -2,17 +2,15 @@
 
 https://rad-semolina-564905.netlify.app/
 
-Development: Ongoing
-
 ## Getting Started
 
-Simply gain access by clicking on the netlify link. This will immediately start the game. 
+Simply gain access by clicking on the netlify link. This will immediately start the game. Please note that development for the website is not fully completed.
 
 https://user-images.githubusercontent.com/97206862/163056492-41c6ae74-36b2-4787-af3b-26ffbe25ded1.mp4
 
 ### Installing
 
-To install and configure the code, simply download the ZIP file or create a directory using git clone with the SSH or HTTPS key. The files can be configured by configuring the js files, opening index.html and refreshing.
+To install and configure the code, simply download the ZIP file or create a directory using git clone with the SSH or HTTPS key. The files can be configured by configuring the js files, opening index.html and refreshing. 
 
 ## Running the tests
 
