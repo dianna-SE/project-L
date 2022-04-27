@@ -1,6 +1,7 @@
 # GOOBLE | FIGHTING GAME WEBSITE
 
 https://rad-semolina-564905.netlify.app/
+Development: Ongoing
 
 ## Getting Started
 
