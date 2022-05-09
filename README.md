@@ -6,6 +6,12 @@ https://rad-semolina-564905.netlify.app/
 
 Simply gain access by clicking on the netlify link. This will immediately start the game. Please note that development for the website is not fully completed.
 
+#### Working: 
+Player & sprite movements and actions, animations, and timer.
+
+#### In development:
+Screen boundaries, fixing game mechanics, menu selection.
+
 https://user-images.githubusercontent.com/97206862/163056492-41c6ae74-36b2-4787-af3b-26ffbe25ded1.mp4
 
 ### Installing
