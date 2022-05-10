@@ -6,7 +6,9 @@ https://rad-semolina-564905.netlify.app/
 
 ## Getting Started
 
-Simply gain access by clicking on the netlify link. This will immediately start the game. Please note that development for the website is not fully completed.
+Simply gain access by clicking on the netlify link and this will immediately start the game. Refresh if a rematch is needed.
+
+Please note that development for the website is not fully completed.
 
 #### Working: 
 Player & sprite movements and actions, animations, and timer.
