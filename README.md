@@ -1,6 +1,6 @@
-# GOOBLE | FIGHTING GAME WEBSITE
+# Project L | FIGHTING GAME WEBSITE
 
-Gooble is a fighting game website that allows two players to fight one another. Once the timer hits zero, the player with the most health wins. 
+Project L is a fighting game website that allows two players to fight one another. Once the timer hits zero, the player with the most health wins. 
 
 https://rad-semolina-564905.netlify.app/
 
